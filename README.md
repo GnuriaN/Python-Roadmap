@@ -8,3 +8,4 @@
 **Почему Я решил это сделать?** Просто это не [первая моя попытка](https://github.com/GnuriaN/Python-Roadmap/blob/master/previous-history.md) стать разработчиком программного обеспечения (программистом), но до этого все сводилось к тому, что я просто изучал язык и думал, если я его выучу, то смогу найти работу. Но все оказалось совсем не так. Базовых знаний всегда не хватает, даже, чтобы устроится новичком.
 
 Нулевая версия [Roadmap-Python-v.0.md](https://github.com/GnuriaN/Python-Roadmap/blob/master/Roadmap-Python-v.0.md)
+Необходимые технологии [Technology.md](https://github.com/GnuriaN/Python-Roadmap/blob/master/Technology.md)
