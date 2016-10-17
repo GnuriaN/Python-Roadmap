@@ -1,3 +1,8 @@
+## Web - базовые
+**[HTML](https://ru.wikipedia.org/wiki/HTML)** (от англ. HyperText Markup Language — «язык гипертекстовой разметки») — стандартизированный язык разметки документов во Всемирной паутине. Большинство веб-страниц содержат описание разметки на языке HTML (или XHTML). Язык HTML интерпретируется браузерами; полученный в результате интерпретации форматированный текст отображается на экране монитора компьютера или мобильного устройства.
+
+**[CSS](https://ru.wikipedia.org/wiki/CSS)**(/siːɛsɛs/ англ. Cascading Style Sheets — каскадные таблицы стилей) — формальный язык описания внешнего вида документа, написанного с использованием языка разметки. Преимущественно используется как средство описания, оформления внешнего вида веб-страниц, написанных с помощью языков разметки HTML и XHTML, но может также применяться к любым XML-документам, например, к SVG или XUL.
+
 ## Web - фреймворки
 **[Django](https://ru.wikipedia.org/wiki/Django)** (Джанго, ['dʒæŋɡoʊ]) — свободный программный каркас для веб-приложений на языке Python, использующий шаблон проектирования MVC. Проект поддерживается организацией Django Software Foundation.
 
@@ -40,6 +45,8 @@
 
 **[MongoDB](https://ru.wikipedia.org/wiki/MongoDB)** - (от англ. humongous — огромный) — документоориентированная система управления базами данных (СУБД) с открытым исходным кодом, не требующая описания схемы таблиц. Написана на языке C++.
 
+**[MySQL](https://ru.wikipedia.org/wiki/MySQL)** (МФА: [maɪ ˌɛskjuːˈɛl]) — свободная реляционная система управления базами данных. Продукт распространяется как под GNU General Public License, так и под собственной коммерческой лицензией. Помимо этого, разработчики создают функциональность по заказу лицензионных пользователей. Именно благодаря такому заказу почти в самых ранних версиях появился механизм репликации.
+
 ## Серверы
 **[nginx](https://ru.wikipedia.org/wiki/Nginx)** (англ. engine x) (по-русски произносится как э́нжин-э́кс или э́нжин-и́кс) — веб-сервер и почтовый прокси-сервер, работающий на Unix-подобных операционных системах (тестировалась сборка и работа на FreeBSD, OpenBSD, Linux, Solaris, Mac OS X, AIX и HP-UX). Начиная с версии 0.7.52 появилась экспериментальная бинарная сборка под Microsoft Windows.
 
@@ -54,3 +61,6 @@
 **[celery](https://pypi.python.org/pypi/celery)** — «distributed task queue». Это распределенная асинхронная очередь заданий. Task queues are used as a mechanism to distribute work across threads or machines. A task queue’s input is a unit of work, called a task, dedicated worker processes then constantly monitor the queue for new work to perform. Celery communicates via messages, usually using a broker to mediate between clients and workers. To initiate a task a client puts a message on the queue, the broker then delivers the message to a worker. A Celery system can consist of multiple workers and brokers, giving way to high availability and horizontal scaling.
 
 **[RQ](http://python-rq.org)** (Redis Queue) is a simple Python library for queueing jobs and processing them in the background with workers. It is backed by Redis and it is designed to have a low barrier to entry. It can be integrated in your web stack easily.
+
+## Прочее
+**[JavaScript]()** обычно используется как встраиваемый язык для программного доступа к объектам приложений. Наиболее широкое применение находит в браузерах как язык сценариев для придания интерактивности веб-страницам. Основные архитектурные черты: динамическая типизация, слабая типизация, автоматическое управление памятью, прототипное программирование, функции как объекты первого класса.
