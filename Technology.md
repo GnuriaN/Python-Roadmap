@@ -46,5 +46,7 @@
 
 ## Очередь задач 
 *(Сказали, пока задвинуть их... туда... подальше)*
-**[celery]()**
-**[rq]()**
+
+**[celery](https://pypi.python.org/pypi/celery)** — «distributed task queue». Это распределенная асинхронная очередь заданий. Task queues are used as a mechanism to distribute work across threads or machines. A task queue’s input is a unit of work, called a task, dedicated worker processes then constantly monitor the queue for new work to perform. Celery communicates via messages, usually using a broker to mediate between clients and workers. To initiate a task a client puts a message on the queue, the broker then delivers the message to a worker. A Celery system can consist of multiple workers and brokers, giving way to high availability and horizontal scaling.
+
+**[RQ](http://python-rq.org)** (Redis Queue) is a simple Python library for queueing jobs and processing them in the background with workers. It is backed by Redis and it is designed to have a low barrier to entry. It can be integrated in your web stack easily.
