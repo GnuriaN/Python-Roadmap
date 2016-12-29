@@ -12,3 +12,4 @@
  * Схема [RoadmapPython.gv.pdf](https://github.com/GnuriaN/Python-Roadmap/blob/master/RoadmapPython.gv.pdf)
       * Скрипт [RoadmapPython.py](https://github.com/GnuriaN/Python-Roadmap/blob/master/RoadmapPython.py)
 * Необходимые технологии [Technology.md](https://github.com/GnuriaN/Python-Roadmap/blob/master/Technology.md)
+* Полезные утилиты [UsefulUtilities.md](https://github.com/GnuriaN/Python-Roadmap/blob/master/UsefulUtilities.md)
