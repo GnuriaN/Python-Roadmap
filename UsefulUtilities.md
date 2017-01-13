@@ -12,4 +12,14 @@ pip install xlwt
 Ссылки:
 https://habrahabr.ru/post/99923/
 
+## Кросс платформенные фреймворки
+### KiVi
+Ссылка на проект: https://kivy.org/#home
 
+Ссылка на русскую документацию:
+Ссылки на статьи: https://habrahabr.ru/post/313160/
+
+
+
+### BeeWare
+Ссылка на проект: http://pybee.org
