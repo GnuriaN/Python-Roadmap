@@ -8,7 +8,8 @@
 **Почему Я решил это сделать?** Просто это не [первая моя попытка](https://github.com/GnuriaN/Python-Roadmap/blob/master/previous-history.md) стать разработчиком программного обеспечения (программистом), но до этого все сводилось к тому, что я просто изучал язык и думал, если я его выучу, то смогу найти работу. Но все оказалось совсем не так. Базовых знаний всегда не хватает, даже, чтобы устроится новичком.
 
 * Нулевая версия:  
- * Текстовая версия: [Roadmap-Python-v.0.md](https://github.com/GnuriaN/Python-Roadmap/blob/master/Roadmap-Python-v.0.md) (Текст)
+ * Текстовая версия: [Roadmap-Python-v.0.md](https://github.com/GnuriaN/Python-Roadmap/blob/master/Roadmap-Python-v.0.md) (Закрыто)
+ * Текстовая версия: [Roadmap-Python-v.0.1.md](https://github.com/GnuriaN/Python-Roadmap/blob/master/Roadmap-Python-v.0.1.md) (Текст)
  * Схема [RoadmapPython.gv.pdf](https://github.com/GnuriaN/Python-Roadmap/blob/master/RoadmapPython.gv.pdf)
       * Скрипт [RoadmapPython.py](https://github.com/GnuriaN/Python-Roadmap/blob/master/RoadmapPython.py)
 * Необходимые технологии [Technology.md](https://github.com/GnuriaN/Python-Roadmap/blob/master/Technology.md)
