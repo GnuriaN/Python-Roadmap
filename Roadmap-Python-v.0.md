@@ -1,6 +1,9 @@
 # Roadmap
 # Дорожная карта по изучению Python v.0.
 
+**Данный документ закрыт**  
+Из этого документа будут браться данные для заполнения текущей версии документа: [Roadmap-Python-v.0.1.md](Roadmap-Python-v.0.1.md)
+
 Для получения базовых знаний был выбран ресурс [Stepik.org](https://stepik.org). В дальнейшем к нему добавился еще один ресурс [PythonTutor.ru](http://pythontutor.ru). Так же возможны ссылки и на другие ресурсы. 
 
 ADD [07.09.2017]: Вышел курс [Программирование на Python](https://www.coursera.org/learn/programming-in-python)
