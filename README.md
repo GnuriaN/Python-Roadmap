@@ -15,3 +15,7 @@
 * Необходимые технологии [Technology.md](https://github.com/GnuriaN/Python-Roadmap/blob/master/Technology.md)
 * Полезные утилиты [UsefulUtilities.md](https://github.com/GnuriaN/Python-Roadmap/blob/master/UsefulUtilities.md)
 * Очень полезная статья про библиотеки/фреймворки и утилиты. Постоянно пополняется и обновляеться.  [awesomo/languages/PYTHON](https://github.com/lk-geimfari/awesomo/blob/master/languages/PYTHON.md)
+
+
+Нашел я тут на просторах забавную картинку:
+![roadmap.png](roadmap.png)
