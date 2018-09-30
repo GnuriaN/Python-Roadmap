@@ -37,10 +37,7 @@
 
 Начинаем с самого простого.
 
-<details>
-<summary>Возьмем большую шпоркаглу по [Python3](mementopython3-russian.pdf) распечаем ее, и повесим или положим, на самом видном месте.</summary>
-![./img/mementopython3-1.png](./img/mementopython3-1.png) ![./img/mementopython3-2.png](./img/mementopython3-2.png)
-</details>
+<details><summary>Возьмем большую шпоркаглу по [Python3](mementopython3-russian.pdf) распечаем ее, и повесим или положим, на самом видном месте.</summary><img src="./img/mementopython3-1.png"> <img src="./img/mementopython3-2.png"></details>
 
 ### Junior
 
