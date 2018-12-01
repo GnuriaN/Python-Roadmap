@@ -4,7 +4,7 @@
 
 ## Общие
 1. [x] [Стандарты оформления кода](https://geekbrains.ru/events/1136)
-2. [ ] [Собеседование Python. Интервьюер и интервьюируемый](https://geekbrains.ru/events/852)
+2. [x] [Собеседование Python. Интервьюер и интервьюируемый](https://geekbrains.ru/events/852)
 
 ## Особенности языка
 1. [ ] [Python: полезные библиотеки](https://geekbrains.ru/events/132)
@@ -17,7 +17,7 @@
 ## Полезности
 1. [ ] [Продвинутые инструменты разработчика Python](https://geekbrains.ru/events/163)
 
-## Парсинг сайтов и данныъ
+## Парсинг сайтов и данных
 1. [ ] [Первый опыт с Python. Парсинг данных веб-сайта](https://geekbrains.ru/events/1086)
 2. [ ] [Создание парсера сайтов на языке Python](https://geekbrains.ru/events/9)
 3. [ ] [Scrapy: создаём краулер/парсер на Python с нуля](https://geekbrains.ru/events/472)
