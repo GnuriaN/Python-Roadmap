@@ -32,6 +32,7 @@ _P.S. за ссылки на курсы, видео о статьи, я не п�
     2. [Visual Studio Code](https://ru.wikipedia.org/wiki/Visual_Studio_Code). Скачать можно с официального сайта: [code.visualstudio.com](https://code.visualstudio.com).
     3. [Sublime Text 3](https://ru.wikipedia.org/wiki/Sublime_Text). Скачать можно с официального сайта: [sublimetext.com](https://www.sublimetext.com).
     4. [Anaconda](https://www.anaconda.com/what-is-anaconda/). Скачать можно с официального сайта: [anaconda.com](https://www.anaconda.com/download/).
+        * Немного о составе дистрибутива: [anaconda.md](anaconda.md)
 
 ### Сделать рабочее окружение
 

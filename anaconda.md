@@ -33,8 +33,12 @@ E:\!Git!
 ```
 
 ## Qt Console
+**Qt Console** - это GUI для реализации IPython.
+![./img/anaconda_qt_console.png](./img/anaconda_qt_console.png)    
 
 ## Spyder
+**Spyder** - свободная и кроссплатформенная интерактивная IDE для научных расчетов на языке Python, обеспечивающая простоту использования функциональных возможностей и легковесность программной части.
+![./img/anaconda_qt_spyder.png](./img/anaconda_spyder.png)    
 
 ## Glueviz
 
