@@ -20,11 +20,11 @@ P.S. Есть очень интересная статья, которая по�
 Существует небольшой "косяк" (_ну это я так щитаю_), по умолчанию эти программы (_в операционной среде Windows_)запускаются с рабочей диреторией `%USERPROFILE%`, и чтобы это исправить, нужно изменить запуск в ярлыках, или запускать программы с укаханием директорий.    
 Пример:
 ```console
-C:\Anaconda\V3-5.0.1\envs\My\Scripts> jupyter-lab.exe %Anaconda%
+C:\Anaconda\python.exe C:\Anaconda\cwp.py C:\Anaconda C:\Anaconda\python.exe C:\Anaconda\Scripts\jupyter-lab-script.py %Anaconda%
 ```
 или
 ```console
-C:\Anaconda\V3-5.0.1\python.exe C:\Anaconda\V3-5.0.1\cwp.py C:\Anaconda\V3-5.0.1 C:\Anaconda\V3-5.0.1\python.exe C:\Anaconda\V3-5.0.1\Scripts\jupyter-notebook-script.py %Anaconda%
+C:\Anaconda\python.exe C:\Anaconda\cwp.py C:\Anaconda C:\Anaconda\python.exe C:\Anaconda\Scripts\jupyter-notebook-script.py %Anaconda%
 ```
 где `%Anaconda%` - это переменная окружения. Но вы всегда можете создать и свои `костыли` =)
 ```console
