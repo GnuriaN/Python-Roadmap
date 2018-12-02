@@ -7,10 +7,10 @@
 2. [x] [Собеседование Python. Интервьюер и интервьюируемый](https://geekbrains.ru/events/852)
 
 ## Особенности языка
-1. [ ] [Python: полезные библиотеки](https://geekbrains.ru/events/132)
-2. [ ] [Аннотации типов в Python](https://geekbrains.ru/events/1011)
+1. [x] [Python: полезные библиотеки](https://geekbrains.ru/events/132)
+2. [x] [Аннотации типов в Python](https://geekbrains.ru/events/1011)
 3. [ ] [Декораторы в Python](https://geekbrains.ru/events/576)
-4. [ ] [Золотой запас Python](https://geekbrains.ru/events/586)
+4. [x] [Золотой запас Python](https://geekbrains.ru/events/586)
 5. [ ] [Python. Генераторы и итераторы](https://geekbrains.ru/events/199)
 6. [ ] [Словари в Python](https://geekbrains.ru/events/886)
 
