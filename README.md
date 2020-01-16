@@ -63,6 +63,7 @@ _P.S. за ссылки на курсы, видео и статьи я не по
         - Работа с командной строкой ( CMD ) Windows: https://ab57.ru/cmdtricks.html (тут есть HotKey)
         - командные файлы Windows: https://ab57.ru/cmd.html
     * для GNU\Linux:
+        - Курс "Введение в Linux". В рамках представленного курса слушатели познакомятся с операционной системой Linux и её базовыми возможностями. [https://stepik.org/course/73](https://stepik.org/course/73/)
         - TBD ...
 
 ## Теперь пора учиться
