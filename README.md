@@ -77,6 +77,8 @@ _P.S. за ссылки на курсы, видео и статьи я не по
 Ссылка на файл: [mementopython3-russian.pdf](mementopython3-russian.pdf)
 P.S. _Она висит у меня на рабочем месте до сих пор._
 
+А еще есть очень замечательный проект [python-cheatsheet](https://github.com/gto76/python-cheatsheet), просто кладезь полезной информации. Крайне рекомендую добавить в закладки.
+
 А еще был подкаст "[Python Junior](https://podcast.python.ru)" от [MoscowPython](https://www.facebook.com/groups/MoscowDjango/) и [LearnPython](https://learn.python.ru), его нужно слушать или смотреть. Сейчас это просто подкаст про Python, но смотреть/слушать его нужно.
 
 Также могу порекомендовать присоединиться к Python коммьюнити в вашем городе и к разным информационным каналам.
