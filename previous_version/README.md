@@ -14,7 +14,7 @@
        * Скрипт [RoadmapPython.py](RoadmapPython.py)
 * Необходимые технологии [Technology.md](Technology.md)
 * Полезные утилиты [UsefulUtilities.md](UsefulUtilities.md)
-* Очень полезная статья про библиотеки/фреймворки и утилиты. Постоянно пополняется и обновляеться.  [awesomo/languages/PYTHON](https://github.com/lk-geimfari/awesomo/blob/master/languages/PYTHON.md)
+* Очень полезная статья про библиотеки/фреймворки и утилиты. Постоянно пополняется и обновляется.  [awesomo/languages/PYTHON](https://github.com/lk-geimfari/awesomo/blob/master/languages/PYTHON.md)
 * Ссылки на обучающие [видео](video_lessons.md)
 
 Нашел я тут на просторах забавную картинку:
