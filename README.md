@@ -39,8 +39,9 @@ _P.S. за ссылки на курсы, видео и статьи я не по
 2. Вам нужна [IDE](https://ru.wikipedia.org/wiki/Интегрированная_среда_разработки) для работы. [Список](https://ru.wikipedia.org/wiki/Сравнение_интегрированных_сред_разработки#Python) основных IDE можно увидеть на [Wiki](https://ru.wikipedia.org/wiki/Сравнение_интегрированных_сред_разработки#Python). Так же можно воспользоваться "продвинутыми" текстовыми редакторами. Мой список:
    1. [PyCharm](https://ru.wikipedia.org/wiki/PyCharm). Скачать можно с сайта [JetBrains](https://www.jetbrains.com/pycharm/). Можно установить обе версии `Professional` и `Community`. Позже я скажу как можно получить/получать лицензию на три месяца.
    2. [Visual Studio Code](https://ru.wikipedia.org/wiki/Visual_Studio_Code). Скачать можно с официального сайта: [code.visualstudio.com](https://code.visualstudio.com).
-   3. [Sublime Text 3](https://ru.wikipedia.org/wiki/Sublime_Text). Скачать можно с официального сайта: [sublimetext.com](https://www.sublimetext.com).
-   4. [Anaconda](https://www.anaconda.com/what-is-anaconda/). Скачать можно с официального сайта: [anaconda.com](https://www.anaconda.com/download/).
+   3. [VSCodium](https://github.com/VSCodium/vscodium). Сборка Visual Studio Code без телеметрии от Microsoft. Других отличий нет.
+   4. [Sublime Text 3](https://ru.wikipedia.org/wiki/Sublime_Text). Скачать можно с официального сайта: [sublimetext.com](https://www.sublimetext.com).
+   5. [Anaconda](https://www.anaconda.com/what-is-anaconda/). Скачать можно с официального сайта: [anaconda.com](https://www.anaconda.com/download/).
       - Немного о составе дистрибутива: [anaconda.md](anaconda.md)
 
 **Мои рекомендации:**
