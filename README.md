@@ -84,6 +84,29 @@ _P.S. за ссылки на курсы, видео и статьи я не по
      - Курс "Введение в Linux". В рамках представленного курса слушатели познакомятся с операционной системой Linux и её базовыми возможностями. [https://stepik.org/course/73](https://stepik.org/course/73/)
      - TBD ...
 
+### Важно! Нет, не так, очень ВАЖНО!
+
+#### Flake8 - установите его и настройте.
+
+[Flake8](https://flake8.pycqa.org/en/latest/) — инструмент, позволяющий просканировать код проекта и обнаружить в нем стилистические ошибки и нарушения различных конвенций кода на [Python](https://www.python.org/). [Flake8](https://flake8.pycqa.org/en/latest/) умеет работать не только с [PEP 8](https://www.python.org/dev/peps/pep-0008/), но и с другими правилами, к тому же поддерживает кастомные плагины.
+
+1. Для начало посмотрите видео от [Хитрый питон](https://www.youtube.com/channel/UC2-j4-hV33hboyK1FtukJ9w) [Настраиваем flake8, чтобы улучшить качество кода](https://youtu.be/cdHnEN0Dsm0)
+2. Потом почитайте:
+   1. [PEP 8](https://www.python.org/dev/peps/pep-0008/)
+      *  
+   2. [Google Code Style Python](https://google.github.io/styleguide/pyguide.html)
+   3. Советы Google по кодированию на языке Python.
+      * [Часть первая: советы по программированию](https://habr.com/ru/post/179271/)
+      * [Часть вторая: советы по форматированию исходного кода](https://habr.com/ru/post/180509/)
+      * [Форматирование Python-кода](https://habr.com/ru/post/251531/) 
+   4. [PyCharm + flake8 = ❤](https://melevir.medium.com/pycharm-loves-flake-671c7fac4f52) от Ilya Lebedev.
+   5. [The Best flake8 Extensions for your Python Project](https://julien.danjou.info/the-best-flake8-extensions/)
+   6. Загляните в репозиторий [awesome-flake8-extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions)
+   7. И обратите внимание на комментарий от Ilya Lebedev:
+   > We use all of them in `wemake-python-styleguide` ... which is `flake8` extension too. Here you can find the full list of violations produced by these plugins: [wemake-python-stylegui](https://wemake-python-stylegui.de/en/latest/)
+
+В общем начните использовать Линтеры с самого начала обучения! Это реально очень важно для вас и для команды в которой вы в дальнейшем будите работать.
+
 ## Теперь пора учиться
 
 _С чего начать учиться?_ Я считаю, что самый простой способ это использовать онлайн курсы. Начинать нужно с простых, а дальше переходить к более сложным.
